@@ -23,7 +23,7 @@ Here are some things to be aware of:
 
 ### Node.js version manager
 
-Whatever operating system you use, you'll need to install Node.js. We recommend doing this using [**nvm**](https://github.com/creationix/nvm#installation) - the **n**ode **v**ersion **m**anager (or for windows, [`nvm-windows`](https://github.com/coreybutler/nvm-windows).
+Whatever operating system you use, you'll need to install Node.js. We recommend doing this using [**nvm**](https://github.com/creationix/nvm#installation) - the **n**ode **v**ersion **m**anager (or for windows, [`nvm-windows`](https://github.com/coreybutler/nvm-windows)).
 
 ## macOS
 
